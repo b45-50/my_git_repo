@@ -12,7 +12,6 @@ public class SecondJavaClass {
 	System.out.println();
 	System.out.println();
 
-
 	}
 	
 	public static int multiplication(int k , int m) {
