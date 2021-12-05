@@ -9,6 +9,8 @@ public class SecondJavaClass {
 		
 	
 	System.out.println(multiplication(3,4));
+	System.out.println();
+	
 	
 	
 	}
